@@ -13,5 +13,5 @@ Conversor de temperatura y moneda, en java.
 <p align="center">
      <img width="500" heigth="300" src="https://github.com/negrais/imagenes/blob/012e40329ed5d1be0d3333f9ae3bfb2562f5bc25/pantalla2.png">
      </p>
-#### 
+
 
